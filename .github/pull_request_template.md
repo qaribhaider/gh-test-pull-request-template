@@ -1,5 +1,5 @@
 ## Summary
-<!-- Add a summary here, or write a short bulleted list of changes. -->
+<!-- Add a summary of changes here. If you are using Copilot to generate the summary then select this full line of text and then generate, to ensure the existing content is not removed -->
 
 ---
 
@@ -13,6 +13,3 @@
 - [ ] Ran unit tests
 - [ ] Ran e2e tests
 - [ ] Ran integration tests
-
----
-**Note:** Please don't remove this checklist when using AI to generate a summary.
